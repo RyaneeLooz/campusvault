@@ -17,7 +17,7 @@ UBUNTU_CODENAME=resolute
 LOGO=ubuntu-logo
 
 whoami && id
-ryane
+###### ryane
 uid=1001(ryane) gid=1001(ryane) groups=1001(ryane),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users)
 
 ps aux | head -15
